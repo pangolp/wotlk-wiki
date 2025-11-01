@@ -1,0 +1,35 @@
+# Dependencias
+node_modules/
+.pnpm-store/
+.yarn/
+.pnp.*
+
+# Build output
+docs/.vitepress/dist
+docs/.vitepress/cache
+.temp
+dist/
+
+# Cache de VitePress
+.vitepress/cache/
+**/.vitepress/cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs
