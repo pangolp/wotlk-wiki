@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  lang: 'es-es',
+  lang: 'en-US',
   title: 'Wotlk wiki',
   description: 'Wiki con información de la expasión 3.3.5a',
   base: '/wotlk-wiki/',
@@ -28,6 +28,7 @@ export default defineConfig({
       { text: 'Inicio', link: '/' },
       { text: 'Addons', link: '/addons/' },
       { text: 'AzerothCore', link: 'https://www.azerothcore.org/', target: '_blank', rel: 'noreferrer' },
+      { text: 'ChromieCraft', link: 'https://www.chromiecraft.com/es/', target: '_blank', rel: 'noreferrer' },
     ],
 
     sidebar: [
