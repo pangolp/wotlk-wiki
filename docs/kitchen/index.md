@@ -9,20 +9,20 @@ Descripcion: Informacion sobre las recetas para subir cocina al maximo.
 # Guia para subir cocina del 1 al 450
 
 ::: tip Importante
-- Para cocinar, requiere de una [lumbre](https://wowgaming.altervista.org/aowow/?spell=818).
+- Para cocinar, requiere de una [lumbre](https://www.wowhead.com/wotlk/es/spell=818).
 - Al aprender cocina, te enseñan a crearlo, o bien, donde estan los instructores, suele haber siempre uno.
 :::
 
 ## Aprendiz de Cocina 1 - 80
 
 - **1 - 40**
-    - 60 x [Pan de especias](https://wowgaming.altervista.org/aowow/?item=30816) (60 x [Harina simple](https://wowgaming.altervista.org/aowow/?item=30817), 60 x [Especias suaves](https://wowgaming.altervista.org/aowow/?item=2678)).
+    - 60 x [Pan de especias](https://www.wowhead.com/wotlk/es/item=30816) (60 x [Harina simple](https://www.wowhead.com/wotlk/es/item=30817), 60 x [Especias suaves](https://www.wowhead.com/wotlk/es/item=2678)).
     > Los items lo suele vender algun npc cerca del instructor.
 - **40 - 80**
-    - 40 x [Carne de oso](https://wowgaming.altervista.org/aowow/?item=3173) (40 x [Carne de oso ahumada](https://wowgaming.altervista.org/aowow/?item=6892)).
+    - 40 x [Carne de oso](https://www.wowhead.com/wotlk/es/item=3173) (40 x [Carne de oso ahumada](https://www.wowhead.com/wotlk/es/item=6892)).
     - Receta:
-        - [Andrew Hilbert](https://wowgaming.altervista.org/aowow/?npc=3556) en Entrañas (Horda).
-        - [Drac Corteseco](https://wowgaming.altervista.org/aowow/?npc=1465) en Forjas (Alianza).
+        - [Andrew Hilbert](https://www.wowhead.com/wotlk/es/npc=3556) en Entrañas (Horda).
+        - [Drac Corteseco](https://www.wowhead.com/wotlk/es/npc=1465) en Forjas (Alianza).
 
 > Al **nivel 75** deberás ir a tu entrenador.
 
@@ -33,11 +33,11 @@ Descripcion: Informacion sobre las recetas para subir cocina al maximo.
 > Al **nivel 150** deberás ir a tu entrenador.
 
 - **130 – 175**
-    - 50 x [Tortilla con un sabor curioso](https://wowgaming.altervista.org/aowow/?item=3682) (50 x [Huevo de raptor](https://wowgaming.altervista.org/aowow/?item=3685))
+    - 50 x [Tortilla con un sabor curioso](https://www.wowhead.com/wotlk/es/item=3682) (50 x [Huevo de raptor](https://www.wowhead.com/wotlk/es/item=3685))
     - **Receta:**
-        - [Keenaen](https://wowgaming.altervista.org/aowow/?npc=2821) Tierras Altas de Arathi.
-        - [Nerrist](https://wowgaming.altervista.org/aowow/?npc=1148) en Vega de Tuercespina.
-        - [Kendor Kabonka](https://wowgaming.altervista.org/aowow/?npc=340) en Ventormenta.
+        - [Keenaen](https://www.wowhead.com/wotlk/es/npc=2821) Tierras Altas de Arathi.
+        - [Nerrist](https://www.wowhead.com/wotlk/es/npc=1148) en Vega de Tuercespina.
+        - [Kendor Kabonka](https://www.wowhead.com/wotlk/es/npc=340) en Ventormenta.
 - **175 – 225**
     - 50 x Raptor asado (50 x Carne de raptor)
     - **Receta:**
@@ -82,12 +82,12 @@ Para poder realizar la mayoria de estas recetas, tendras que obtener un nivel al
 Al hacerlas, te entregaran un item, con el cual, podrias comprar recetas y otros objetos, como el gorro, que permite cocinar mas rapido.
 
 - Recetas:
-    - [Derek Cosillas](https://wowgaming.altervista.org/aowow/?npc=31032) (Alianza)
-    - [Misensi](https://wowgaming.altervista.org/aowow/?npc=31031) (Horda)
+    - [Derek Cosillas](https://www.wowhead.com/wotlk/es/npc=31032) (Alianza)
+    - [Misensi](https://www.wowhead.com/wotlk/es/npc=31031) (Horda)
 
 ## Evento generocidad
 
-- [Generosidad](https://wowgaming.altervista.org/aowow/?quests=9.-375)
+- [Generosidad](https://www.wowhead.com/wotlk/es/quests=9.-375)
 
 ## Fuente externa
 - [guiaswow.com](https://www.guiaswow.com/cocina/guia-cocina-1-450.html)
