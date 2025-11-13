@@ -80,17 +80,56 @@ Descripcion: Informacion sobre las recetas para subir cocina al maximo.
 
 ## Comidas con beneficios
 
-Para poder realizar la mayoria de estas recetas, tendras que obtener un nivel alto de cocina, y realizar las misiones diarias, que te van a dar en la cuidad de Dalaran.
-
-Al hacerlas, te entregaran un item, con el cual, podrias comprar recetas y otros objetos, como el gorro, que permite cocinar mas rapido.
+Para poder realizar la mayoria de estas recetas, tendras que obtener un nivel alto de cocina, y realizar las misiones diarias, que te van a dar en la cuidad de Dalaran. Al hacerlas, te entregaran una moneda: [Premio epicúreo](https://www.wowhead.com/wotlk/es/currency=81/) y tambien [Especias del norte](https://www.wowhead.com/wotlk/es/item=43007/), con los cuales, podrias comprar recetas y otros objetos, como el [Gorro de cocinero](https://www.wowhead.com/wotlk/es/item=46349/), que permite cocinar mas rapido.
 
 - Recetas:
     - [Derek Cosillas](https://www.wowhead.com/wotlk/es/npc=31032) (Alianza)
     - [Misensi](https://www.wowhead.com/wotlk/es/npc=31031) (Horda)
 
+- [Receta: festín de pescado](https://www.wowhead.com/wotlk/es/item=43017/) - [Beneficio](https://www.wowhead.com/wotlk/es/spell=57426/)
+- [Receta: comida de megamamut](https://www.wowhead.com/wotlk/es/item=43018/) - [Beneficio](https://www.wowhead.com/wotlk/es/spell=57324/)
+- [Receta: filete de colmipala tierno](https://www.wowhead.com/wotlk/es/item=43019/)
+- [Receta: hamburguesa de gusano especiada](https://www.wowhead.com/wotlk/es/item=43020/)
+- [Receta: huargo muy quemado](https://www.wowhead.com/wotlk/es/item=43021/)
+- [Receta: perritos de rinoceronte poderosos](https://www.wowhead.com/wotlk/es/item=43022/)
+- [Receta: pez escorpión del norte pochado](https://www.wowhead.com/wotlk/es/item=43023/)
+- [Receta: salmón petardo](https://www.wowhead.com/wotlk/es/item=43024/)
+- [Receta: medusa azul picante](https://www.wowhead.com/wotlk/es/item=43025/)
+- [Receta: filete de manta imperial](https://www.wowhead.com/wotlk/es/item=43026/)
+- [Receta: arenque frito picante](https://www.wowhead.com/wotlk/es/item=43027/)
+- [Receta: aperitivos para alimañas](https://www.wowhead.com/wotlk/es/item=43029/)
+- [Receta: rinoceronte suculento](https://www.wowhead.com/wotlk/es/item=43030/)
+- [Receta: pargo extremo](https://www.wowhead.com/wotlk/es/item=43031/)
+- [Receta: filete de huargo ennegrecido](https://www.wowhead.com/wotlk/es/item=43032/)
+- [Receta: filete de calamar](https://www.wowhead.com/wotlk/es/item=43033/)
+- [Receta: delicias de mamut especiado](https://www.wowhead.com/wotlk/es/item=43034/)
+- [Receta: aletadragón ennegrecido](https://www.wowhead.com/wotlk/es/item=43035/)
+- [Receta: filete de aletadragón](https://www.wowhead.com/wotlk/es/item=43036/)
+- [Receta: aperitivo de rastreador](https://www.wowhead.com/wotlk/es/item=43037/)
+- [Receta: festín gigantesco](https://www.wowhead.com/wotlk/es/item=43505/)
+- [Receta: festín pequeño](https://www.wowhead.com/wotlk/es/item=43506/)
+- [Receta: filete tártaro de huargo](https://www.wowhead.com/wotlk/es/item=44954/)
+
 ## Evento generocidad
 
-- [Generosidad](https://www.wowhead.com/wotlk/es/quests=9.-375)
+Durante el evento, se puede subir cocina, visitando los diferentes instructores, que se encuentran a las afuera de las cuidades capitales de cada faccion. Existen 5 recetas, las cuales se aprenden, al adquirir [Libro de cocina generoso](https://www.wowhead.com/wotlk/es/item=46809/) en la Alianza o [Libro de cocina generoso](https://www.wowhead.com/wotlk/es/item=46810/) en la horda.
+
+### Alianza
+
+- [Receta: relleno de pan de especias](https://www.wowhead.com/wotlk/es/item=44860/) - requiere Cocina (1)
+- [Receta: tarta de calabaza](https://www.wowhead.com/wotlk/es/item=44862/) - requiere Cocina (100)
+- [Receta: chatni de arándanos](https://www.wowhead.com/wotlk/es/item=44858/) - requiere Cocina (160)
+- [Receta: batata confitada](https://www.wowhead.com/wotlk/es/item=44859/) - requieres Cocina (220)
+- [Receta: pavo a fuego lento](https://www.wowhead.com/wotlk/es/item=44861/) - requiere Cocina (280)
+
+### Horda
+
+- [Receta: relleno de pan de especias](https://www.wowhead.com/wotlk/es/item=46803/) - requiere Cocina (1)
+- [Receta: tarta de calabaza](https://www.wowhead.com/wotlk/es/item=46804/) - requiere Cocina (100)
+- [Receta: chatni de arándanos](https://www.wowhead.com/wotlk/es/item=46805/) - requiere Cocina (160)
+- [Receta: batata confitada](https://www.wowhead.com/wotlk/es/item=46806/) - requieres Cocina (220)
+- [Receta: pavo a fuego lento](https://www.wowhead.com/wotlk/es/item=46807/) - requiere Cocina (280)
 
 ## Fuente externa
 - [Guía de Cocina 1-450](https://www.guiaswow.com/cocina/guia-cocina-1-450.html)
+- [Generosidad del Peregrino](https://wow.fandom.com/es/wiki/Generosidad_del_Peregrino)
