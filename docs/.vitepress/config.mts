@@ -10,6 +10,17 @@ export default defineConfig({
       chunkSizeWarningLimit: 3000
     }
   },
+  head: [
+    [
+      'script',
+      {},
+      'var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: false};'
+    ],
+    [
+      'script',
+      { src: 'https://wow.zamimg.com/widgets/power.js' }
+    ]
+  ],
 
   themeConfig: {
     siteTitle: 'Wotlk',
