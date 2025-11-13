@@ -3,7 +3,7 @@ prev: false
 next: false
 sidebar: false
 title: Guia de cocina 1 - 450
-Descripcion: Informacion sobre las recetas para subir cocina al maximo.
+description: Información sobre las recetas para subir cocina al maximo.
 ---
 
 # Guia para subir cocina del 1 al 450
