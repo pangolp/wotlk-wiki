@@ -64,7 +64,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Alquimia', link: '#' },
-          { text: 'Cocina', link: '#' },
+          { text: 'Cocina', link: '/kitchen/' },
           { text: 'Desuello', link: '#' },
           { text: 'Encantamiento', link: '#' },
           { text: 'Herboristería', link: '#' },
