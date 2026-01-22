@@ -74,7 +74,7 @@ export default defineConfig({
           { text: 'Joyería', link: '#' },
           { text: 'Minería', link: '#' },
           { text: 'Peletería', link: '#' },
-          { text: 'Pesca', link: '#' },
+          { text: 'Pesca', link: '/fishing/' },
           { text: 'Primeros auxilios', link: '#' },
           { text: 'Sastrería', link: '#' },
         ]
