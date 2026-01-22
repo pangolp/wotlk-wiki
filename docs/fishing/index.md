@@ -193,8 +193,6 @@ En World of Warcraft, al pescar no siempre se obtienen peces en el sentido biol�
   - [Anguila relámpago](https://wowgaming.altervista.org/aowow/?item=13757)
   - [Branquirrojo crudo](https://wowgaming.altervista.org/aowow/?item=13758)
 
-------
-
 ### Terrallende
 
 - **Península del Fuego Infernal**:
